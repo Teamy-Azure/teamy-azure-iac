@@ -6,11 +6,4 @@ terraform {
     container_name       = "statefiles"
     key                  = "resource-groups/Teamy-Infrastructure-as-Code-RG/resource_group.tfstate"
   }
-
-  required_providers {
-    azurerm = {
-      source  = "hashicorp/azurerm"
-      version = "~> 4.0"
-    }
-  }
 }

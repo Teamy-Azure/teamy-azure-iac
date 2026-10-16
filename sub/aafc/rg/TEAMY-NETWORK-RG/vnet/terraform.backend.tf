@@ -4,12 +4,6 @@ terraform {
     resource_group_name  = "CACN-Terraform-PROD-RG"
     storage_account_name = "terraformproddwvc87"
     container_name       = "statefiles"
-    key                  = "TEAMY-DISCORD-ARCHIVE-RG - storage account.tfstate"
-  }
-  required_providers {
-    azapi = {
-      source  = "Azure/azapi"
-      version = "2.9.0"
-    }
+    key                  = "TEAMY-NETWORK-RG - vnet.tfstate"
   }
 }

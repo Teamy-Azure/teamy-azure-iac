@@ -6,10 +6,4 @@ terraform {
     container_name       = "statefiles"
     key                  = "TEAMY-DISCORD-ARCHIVE-RG - resource group.tfstate"
   }
-  required_providers {
-    azapi = {
-      source  = "Azure/azapi"
-      version = "2.9.0"
-    }
-  }
 }
