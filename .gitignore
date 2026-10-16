@@ -1,4 +1,16 @@
 .terraform
 *.tfstate
 *.tfstate.*
-TEAMY-DISCORD-ARCHIVE-RG/storage_account/ignore/
+.terraform.tfstate.lock.info
+*.tfplan
+*.tfplan.*
+*.tfvars
+*.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+crash.log
+crash.*.log
+.env
+.env.*
+!.env.example
+ignore
