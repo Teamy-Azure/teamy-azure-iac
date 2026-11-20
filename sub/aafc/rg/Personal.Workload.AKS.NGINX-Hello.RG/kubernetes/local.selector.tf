@@ -1,0 +1,3 @@
+locals {
+  selector = { app = "nginx" } 
+}

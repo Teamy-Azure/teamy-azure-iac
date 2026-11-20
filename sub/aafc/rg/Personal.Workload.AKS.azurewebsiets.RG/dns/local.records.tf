@@ -1,0 +1,5 @@
+locals {
+  records = {
+    apex = "@", wildcard = "*"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "file": "ingressroutes.traefik.io.yaml",
+    "sha256": "ce60c6ef02e4b72215f7d4257df77071015fc534f57804ec9e5166e3ed7ece1c"
+  },
+  {
+    "file": "ingressroutetcps.traefik.io.yaml",
+    "sha256": "85e190d9dd33417c8d25c1db277911e101d7bab41efbeadf8df49d0e057c4dd5"
+  },
+  {
+    "file": "ingressrouteudps.traefik.io.yaml",
+    "sha256": "36a7688a7a152f708bd38be147630837335ba1b93930f55bde8a902da511cc30"
+  },
+  {
+    "file": "middlewares.traefik.io.yaml",
+    "sha256": "802c587aeb95189a84c5aa29ab83cdb02f81a04a9b25c8537096dbc0157e1fb5"
+  },
+  {
+    "file": "middlewaretcps.traefik.io.yaml",
+    "sha256": "b9ea27bd0924cb65359484460acd0a12ad3646144d66d67bec387ada59cb98ba"
+  },
+  {
+    "file": "serverstransports.traefik.io.yaml",
+    "sha256": "dfd0a992cbf617b234177a79d25eeb584f5e6890acf85a6565d33acdf96bf594"
+  },
+  {
+    "file": "serverstransporttcps.traefik.io.yaml",
+    "sha256": "5ca0713ac1378879d4ba42a2769110bde1c8e2d56fcd13ba3d40f826d576c5ea"
+  },
+  {
+    "file": "tlsoptions.traefik.io.yaml",
+    "sha256": "1ab3480713c6d4fc968e252bb32dd202b6466b59bbf68e378539e6bf7dea7c78"
+  },
+  {
+    "file": "tlsstores.traefik.io.yaml",
+    "sha256": "15811678ee0b53c895b7fcfc189f9b35803ec39ad0c28b4851965a516716070d"
+  },
+  {
+    "file": "traefikservices.traefik.io.yaml",
+    "sha256": "38dc54233396137f60454634fc814fea36e700e56c3a3fdedf6d25ce5f44c509"
+  }
+]

@@ -1,0 +1,12 @@
+# dns
+
+See the [group handoff and address map](../README.md) before using this independent
+root. The adjacent [terraform.backend.tf](terraform.backend.tf) contains its
+complete literal Azure backend and distinct state key. This root remains
+uninitialized and undeployed.
+
+Supply `TF_VAR_traffic_ipv4_address` for the reviewed current ingress target.
+This changing cutover input preserves traffic during the resource-group move;
+change it only during the separately approved traffic transition.
+
+Future execution requires the prerequisites and staged ownership review in the group README.

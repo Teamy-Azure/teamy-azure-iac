@@ -1,0 +1,26 @@
+[
+  {
+    "file": "challenges.acme.cert-manager.io.yaml",
+    "sha256": "b6cc9404271b5d61175d4da0a7159ed6502befa7898f420de3088b9fbc7bfc3b"
+  },
+  {
+    "file": "orders.acme.cert-manager.io.yaml",
+    "sha256": "139abe44d5f2419d010b777d80eb53d18466c3d9bed5c39a5c3ae2e9f2158a0e"
+  },
+  {
+    "file": "certificaterequests.cert-manager.io.yaml",
+    "sha256": "d8e6b0f848ee9f596bfc9b49f193173a973d76213e2c9ffaff431a65f6c1256c"
+  },
+  {
+    "file": "certificates.cert-manager.io.yaml",
+    "sha256": "943dfeef185e0953dc3366ce088d1ae955dcc355be46046b6f5643711198253d"
+  },
+  {
+    "file": "clusterissuers.cert-manager.io.yaml",
+    "sha256": "97ac41608e719be0153d87295e064c43c903d3a697e9e49fb56244b1d6337cea"
+  },
+  {
+    "file": "issuers.cert-manager.io.yaml",
+    "sha256": "1476d41fa06106fc65d21976cd52012df58979b41c3e7abe9af3f202157c6e65"
+  }
+]

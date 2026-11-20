@@ -8,6 +8,8 @@
 *.tfvars.json
 *.auto.tfvars
 *.auto.tfvars.json
+*.tfbackend
+*.tfbackend.json
 crash.log
 crash.*.log
 .env
